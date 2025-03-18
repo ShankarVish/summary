@@ -1,0 +1,10 @@
+streamlit==1.43.2
+requests==2.32.3
+beautifulsoup4==4.12.3
+readability-lxml==0.8.1
+transformers==4.41.1
+torch==2.3.0
+tqdm==4.66.2
+urllib3==2.2.1
+lxml==4.9.4  # Downgrade lxml
+html5lib==1.1  # Add HTML5 parser
